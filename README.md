@@ -1,7 +1,7 @@
 # dino_visualization
 Summary stats can be deceiving! Rstats visualization of the dinosauRus dataset
 
-
+![](https://github.com/nickmmark/dino_visualization/blob/main/dinosaurus_animated.gif)
 
 ### Overview
 This app is a demonstration of the importance of visualizing data. It highlights how datasets with similar summary statistics can have radically different patterns, emphasizing that data visualization is an essential step in data analysis.
@@ -17,4 +17,5 @@ The app leverages:
 `gganimate` for creating smooth transitions between datasets in the animation.
 `gifski` to render animations as GIFs for display in the app.
 
-
+### License
+None! Use this freely to teach about the importance of data visualization!
