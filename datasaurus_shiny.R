@@ -124,7 +124,7 @@ server <- function(input, output, session) {
         inherit.aes = FALSE
       ) +
       theme_minimal() +
-      labs(title = "Morphing Between Datasets", subtitle = "{closest_state}") +
+      labs(title = "Beware summary statistics: lesson from the dinosauRus dataset", subtitle = "{closest_state}") +
       transition_states(dataset, transition_length = 2, state_length = 1) +
       enter_fade() +
       exit_fade()
