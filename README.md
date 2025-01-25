@@ -14,9 +14,9 @@ Summary Statistics:
 The Shiny framework dynamically updates the visualizations and statistics in response to user inputs. You can play with the resulting Shiny App [here](https://nickmmark.shinyapps.io/data_science/)
 
 To help visualize and explore the `dinosauRus` data, the app leverages:
-`ggplot2` for plotting.
-`gganimate` for creating smooth transitions between datasets in the animation.
-`gifski` to render animations as GIFs for display in the app.
+* `ggplot2` for plotting.
+* `gganimate` for creating smooth transitions between datasets in the animation.
+* `gifski` to render animations as GIFs for display in the app.
 
 Explore and have fun!
 
